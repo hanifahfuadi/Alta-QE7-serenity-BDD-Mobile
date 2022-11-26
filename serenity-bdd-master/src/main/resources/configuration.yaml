@@ -1,0 +1,9 @@
+!!com.example.app.properties.PropertiesData
+appiumProperties:
+  platformName: android
+  deviceName: device
+  udid: A00000K150122104638
+  app: E:\download\sample-apk.apk
+  automationName: UIAutomator2
+  newCommandTimeout: 500
+  autoGrantPermissions: true
